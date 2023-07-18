@@ -140,6 +140,12 @@ a:hover {
   width: 100%;
 }
 
+.princeton-pic{
+  width: 300px;
+  height: 350px;
+  /* border-radius: 100px; */
+}
+
 .logo-pic{
   border-radius: 100px;
 }
