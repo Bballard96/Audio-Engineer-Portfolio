@@ -139,6 +139,11 @@ a:hover {
 .studio-pic{
   width: 100%;
 }
+
+.logo-pic{
+  border-radius: 100px;
+}
+
 .josh-vid {
   width: 100%;
   height: 450px;
